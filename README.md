@@ -1,6 +1,7 @@
 ## documentShow
 contents:
 - Markdown
+- PaperReading
 - html
 - blog
 
